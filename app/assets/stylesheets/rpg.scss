@@ -1,0 +1,17 @@
+// Place all the styles related to the Rpg controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.farm,.cave,.house,.casino{
+  border: 1px solid black;
+  width: 200px;
+  display: inline-block;
+}
+h4{
+  text-align: center;
+}
+.footer{
+  width: 820px;
+  height: 200px;
+  border: 1px solid darkgray;
+  overflow-y: scroll;
+}
